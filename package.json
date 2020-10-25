@@ -1,0 +1,23 @@
+{
+  "name": "greenweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davoudnsr/greenweb.git"
+  },
+  "keywords": [
+    "web",
+    "arrays"
+  ],
+  "author": "Davoud Nasrabadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davoudnsr/greenweb/issues"
+  },
+  "homepage": "https://github.com/Davoudnsr/greenweb#readme"
+}

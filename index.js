@@ -5,6 +5,4 @@ function reduce(arr) {
   }
   return sum;
 }
-
-let a = reduce([4, 5, 7, 10]);
-console.log(a);
+module.exports.reduce = reduce;

@@ -5,4 +5,11 @@ function reduce(arr) {
   }
   return sum;
 }
+
+function average(arr) {
+  let sum = reduce(arr);
+  let avg = sum / arr.length;
+  return avg;
+}
 module.exports.reduce = reduce;
+module.exports.average = average;
